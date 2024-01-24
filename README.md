@@ -15,17 +15,19 @@ src
 
 ## Start
 
-* Install the latest rust via `rustup`. Avoid the alternatives, they lead to confusion and can be deadends.
+* Install the latest rust via `rustup`. Avoid the alternatives, they lead to confusion and are deadends.
 
 * Check your rust from your shell. I'm using [bash]().
 ```bash
-mcarifio@spider:~/src/rust-tutorial$p type -p cargo
+$p type -p cargo
 /home/mcarifio/.cargo/bin/cargo
-mcarifio@spider:~/src/rust-tutorial$p type -p rustc
+
+$p type -p rustc
 /home/mcarifio/.cargo/bin/rustc
-mcarifio@spider:~/src/rust-tutorial$p cargo --version
+
+$p cargo --version
 cargo 1.74.0 (ecb9851af 2023-10-18)
-mcarifio@spider:~/src/rust-tutorial$p rustc --version
+$p rustc --version
 rustc 1.74.0 (79e9716c9 2023-11-13)
 ```
 
@@ -34,8 +36,9 @@ rustc 1.74.0 (79e9716c9 2023-11-13)
 git clone https://github.com/mcarifio/rust-tutorial/
 cd rust-tutorial
 
-cargo install mdbook
-type -p mdbook
+$p cargo install
+
+$p type -p mdbook
 $p mdbook --version
 mdbook v0.4.36
 ```
