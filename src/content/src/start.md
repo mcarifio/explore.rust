@@ -69,7 +69,7 @@ Starting with the example provides a good hook for the concept.
 
 It's never been a better time to learn how to program in Rust or any other programming language. Because of the wide scale adoption of [open source]() software, the toolchain is almost entirely free. 
 Even the tools that command a price are affordable for personal use and, in some cases, those costs can even be discounted or waived
-entirely. There are courses online of varying quality and video websites such as [Youtube](https://youtube.com/) that offer lectures in video format (although these can be fragmented and difficult to find). 
+entirely. There are courses online of varying quality and video websites such as [Youtube](https://youtube.com/) or [Vimeo](https://vimeo.com/) that offer lectures in video format (although these can be fragmented and difficult to find). 
 For the cost of a personal computer with a little oomph and an internet connection you can go a long, long way. Paradoxically but unsurprisingly, the market for _paid_ software tools has shrunk significantly in the last few decades but does still exist. 
 If you create an interesting tool to augment Rust,  you will find it difficult to sell even if it adds significant value. As one venture capitalist observed, it's difficult to top free. There's no free lunch in that free lunch, 
 you just need some grounding in economics to understand how free changes incentives. Labor costs don't just disappear if something is open sourced and therefore free to acquire. They must eventually be recovered somehow by someone.
