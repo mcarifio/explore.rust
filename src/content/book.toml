@@ -3,4 +3,4 @@ authors = ["Mike Carifio"]
 language = "en"
 multilingual = false
 src = "src"
-title = "Learn Rust"
+title = "The Rust Companion"

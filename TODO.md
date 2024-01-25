@@ -1,8 +1,9 @@
 # todo
 
-* https://github.com/mcarifio/rust-tutorial/
+* https://github.com/mcarifio/rust-companion/ -- done
 
-* mdbook format
+* mdbook format -- started
+
 
 
 
