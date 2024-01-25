@@ -1,4 +1,4 @@
-# rust-tutorial
+# rust-companion
 
 ## You Are Here (Orientation)
 
