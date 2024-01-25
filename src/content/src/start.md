@@ -57,7 +57,7 @@ If you see something completely different (boo!), you get the opportunity to _re
 
 The drives start very short and go nowhere particular interesting. Basically down the driveway and back -- in reverse. But with each ride along we'll travel longer distances and see more interesting sights. We may retraverse certain roads because they're so
 important or because we want to highlight the sights we ignored on the last trip. Seeing something old in a new way makes it new again. Sometimes I'll cheat and tell you something that's wrong or incomplete or both for simplicity. I'll correct it later;
-keep reading. 
+keep reading. Often we'll start by seeing "something in action" and then explain what just happened. That's somewhat different from learning a concept then applying it in various ways as examples.  
 
 ## Resources
 
